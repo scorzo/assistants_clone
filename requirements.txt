@@ -1,0 +1,23 @@
+langchain
+langchain-community
+langchain-openai
+langchain-core
+unstructured # Document loading
+chromadb # Vector storage
+openai # For embeddings
+tiktoken  # For embeddings
+sentence-transformers
+requests # for web scraping
+beautifulsoup4 # for web scraping
+python-dotenv
+
+
+# streamlit
+streamlit
+bs4
+
+### message server
+fastapi
+typing-extensions
+langserve
+sse_starlette
